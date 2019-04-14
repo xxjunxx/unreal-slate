@@ -1,0 +1,701 @@
+﻿Log file open, 04/14/19 19:17:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SlateUI
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(287147081) SRandInit(287147081).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.198152
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.248s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/Xiaojun/Documents/Unreal Projects/SlateUI/Binaries/Win64/UE4Editor-SlateUI-8858.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-UKLRMS9 (192.168.56.1:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.009s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.04.14-17.17.04:936][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.14-17.17.04:936][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.14-17.17.04:977][  0]LogInit: Computer: DESKTOP-UKLRMS9
+[2019.04.14-17.17.04:977][  0]LogInit: User: Xiaojun
+[2019.04.14-17.17.04:977][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.04.14-17.17.04:977][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.04.14-17.17.04:977][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.04.14-17.17.04:977][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.14-17.17.04:978][  0]LogMemory: Process Physical Memory: 273.34 MB used, 273.34 MB peak
+[2019.04.14-17.17.04:978][  0]LogMemory: Process Virtual Memory: 266.04 MB used, 266.04 MB peak
+[2019.04.14-17.17.04:978][  0]LogMemory: Physical Memory: 4262.57 MB used,  3831.84 MB free, 8094.41 MB total
+[2019.04.14-17.17.04:978][  0]LogMemory: Virtual Memory: 4780.67 MB used,  3831.84 MB free, 134217728.00 MB total
+[2019.04.14-17.17.05:007][  0]LogInit: Using OS detected language (en-US).
+[2019.04.14-17.17.05:007][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.14-17.17.05:014][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.14-17.17.05:681][  0]LogStreaming: Display: Took  0.674s to EndInitTextLocalization.
+[2019.04.14-17.17.05:681][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.14-17.17.05:750][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.14-17.17.05:750][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.14-17.17.06:198][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.14-17.17.06:208][  0]LogD3D11RHI:    0. 'Intel(R) Iris(TM) Graphics 6100' (Feature Level 11_0)
+[2019.04.14-17.17.06:208][  0]LogD3D11RHI:       128/0/4047 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.04.14-17.17.06:212][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.14-17.17.06:212][  0]LogD3D11RHI:       0/0/4047 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.14-17.17.06:213][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.14-17.17.06:223][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.14-17.17.06:223][  0]LogD3D11RHI:     GPU DeviceId: 0x162b (for the marketing name, search the web for "GPU Device Id")
+[2019.04.14-17.17.06:223][  0]LogWindows: EnumDisplayDevices:
+[2019.04.14-17.17.06:224][  0]LogWindows:    0. 'Intel(R) Iris(TM) Graphics 6100' (P:1 D:1)
+[2019.04.14-17.17.06:224][  0]LogWindows:    1. 'Intel(R) Iris(TM) Graphics 6100' (P:0 D:0)
+[2019.04.14-17.17.06:225][  0]LogWindows:    2. 'Intel(R) Iris(TM) Graphics 6100' (P:0 D:0)
+[2019.04.14-17.17.06:225][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.04.14-17.17.06:225][  0]LogD3D11RHI:     Adapter Name: Intel(R) Iris(TM) Graphics 6100
+[2019.04.14-17.17.06:225][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.04.14-17.17.06:225][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.04.14-17.17.06:225][  0]LogRHI: Texture pool is 1506 MB (70% of 2151 MB)
+[2019.04.14-17.17.06:232][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.14-17.17.06:245][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2019.04.14-17.17.06:247][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/Xiaojun/Documents/Unreal Projects/SlateUI/Intermediate/Shaders/WorkingDirectory/8108/).
+[2019.04.14-17.17.06:248][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Xiaojun/AppData/Local/Temp/UnrealShaderWorkingDir/5E7591AF419CF6195410D58B55BA12F0/'.
+[2019.04.14-17.17.06:836][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.14-17.17.06:866][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.14-17.17.06:895][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.14-17.17.06:921][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.14-17.17.06:951][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.14-17.17.06:974][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.14-17.17.07:002][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.14-17.17.07:026][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.14-17.17.07:040][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.14-17.17.07:066][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.04.14-17.17.07:091][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.04.14-17.17.07:117][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.04.14-17.17.07:142][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2019.04.14-17.17.07:163][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.04.14-17.17.07:190][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.04.14-17.17.07:246][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.04.14-17.17.07:246][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.04.14-17.17.07:270][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.14-17.17.07:273][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.14-17.17.07:328][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.14-17.17.07:355][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.14-17.17.07:379][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.14-17.17.07:395][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.14-17.17.07:414][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.14-17.17.07:432][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.14-17.17.07:432][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.14-17.17.07:674][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.14-17.17.07:674][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.14-17.17.07:674][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.14-17.17.09:306][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.14-17.17.09:459][  0]LogDerivedDataCache: Loaded boot cache 0.15s 77MB C:/Users/Xiaojun/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.04.14-17.17.09:459][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Xiaojun/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2019.04.14-17.17.09:459][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Xiaojun/Documents/Unreal Projects/SlateUI/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.14-17.17.09:459][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.14-17.17.09:460][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Xiaojun/Documents/Unreal Projects/SlateUI/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.14-17.17.09:460][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.14-17.17.09:494][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.14-17.17.09:507][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Xiaojun/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.14-17.17.09:507][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.14-17.17.09:507][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.14-17.17.09:532][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.14-17.17.09:532][  0]LogSlate: Using Freetype 2.6.0
+[2019.04.14-17.17.09:533][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.14-17.17.09:533][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.14-17.17.09:771][  0]LogAssetRegistry: FAssetRegistry took 0.0314 seconds to start up
+[2019.04.14-17.17.10:364][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.14-17.17.10:627][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.14-17.17.10:634][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.14-17.17.10:634][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.14-17.17.10:634][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.14-17.17.10:634][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.04.14-17.17.10:634][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.04.14-17.17.10:704][  0]LogNetVersion: SlateUI , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2961600931)
+[2019.04.14-17.17.11:483][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.192277 seconds
+[2019.04.14-17.17.11:495][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2019.04.14-17.17.11:495][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2019.04.14-17.17.11:495][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.14-17.17.13:954][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.14-17.17.14:003][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.14-17.17.14:671][  0]SourceControl: Source control is disabled
+[2019.04.14-17.17.14:671][  0]SourceControl: Source control is disabled
+[2019.04.14-17.17.14:707][  0]SourceControl: Source control is disabled
+[2019.04.14-17.17.14:744][  0]SourceControl: Source control is disabled
+[2019.04.14-17.17.15:607][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.14-17.17.15:898][  0]LogOcInput: OculusInput pre-init called
+[2019.04.14-17.17.16:080][  0]LogEngine: Initializing Engine...
+[2019.04.14-17.17.16:081][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.14-17.17.16:083][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.14-17.17.16:083][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.14-17.17.16:404][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.14-17.17.16:423][  0]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4208 (AB 123))' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.14-17.17.16:465][  0]LogInit: FAudioDevice initialized.
+[2019.04.14-17.17.16:536][  0]LogDerivedDataCache: Saved boot cache 0.07s 77MB C:/Users/Xiaojun/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.04.14-17.17.16:559][  0]LogInit: Texture streaming: Enabled
+[2019.04.14-17.17.16:593][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.14-17.17.16:619][  0]LogInit: Transaction tracking system initialized
+[2019.04.14-17.17.16:664][  0]BlueprintLog: New page: Editor Load
+[2019.04.14-17.17.16:806][  0]LocalizationService: Localization service is disabled
+[2019.04.14-17.17.16:971][  0]LogConsoleResponse: Display: 
+[2019.04.14-17.17.17:251][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.14-17.17.17:251][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.14-17.17.17:252][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Xiaojun/Documents/Unreal Projects/SlateUI/Content/' took 0.02s
+[2019.04.14-17.17.17:252][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.14-17.17.17:252][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.14-17.17.17:252][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.14-17.17.17:985][  0]SourceControl: Source control is disabled
+[2019.04.14-17.17.18:079][  0]LogSlate: Took 0.000319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.14-17.21.02:222][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2019.04.14-17.21.02:224][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft Pinyin).
+[2019.04.14-17.21.02:260][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.14-17.21.02:262][  0]LightingResults: New page: Lighting Build
+[2019.04.14-17.21.02:272][  0]MapCheck: New page: Map Check
+[2019.04.14-17.21.02:272][  0]LightingResults: New page: Lighting Build
+[2019.04.14-17.21.02:917][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.14-17.21.02:938][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.14-17.21.03:014][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.14-17.21.03:192][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 177.674ms to complete.
+[2019.04.14-17.21.03:193][  0]LogFileHelpers: Loading map 'Template_Default' took 0.933
+[2019.04.14-17.21.03:227][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_b74_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_2464_0///####STATCAT_Advanced####
+[2019.04.14-17.21.03:227][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft Pinyin).
+[2019.04.14-17.21.03:401][  0]LogCollectionManager: Loaded 0 collections in 0.006266 seconds
+[2019.04.14-17.21.03:464][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Xiaojun/Documents/Unreal Projects/SlateUI/Saved/Collections/' took 0.01s
+[2019.04.14-17.21.03:464][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Xiaojun/Documents/Unreal Projects/SlateUI/Content/Developers/Xiaojun/Collections/' took 0.01s
+[2019.04.14-17.21.03:464][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Xiaojun/Documents/Unreal Projects/SlateUI/Content/Collections/' took 0.01s
+[2019.04.14-17.21.03:464][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.14-17.21.03:478][  0]LogContentBrowser: Native class hierarchy populated in 0.0135 seconds. Added 2456 classes and 560 folders.
+[2019.04.14-17.21.03:498][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0015 seconds. Added 0 classes and 0 folders.
+[2019.04.14-17.21.04:036][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2019.04.14-17.21.04:053][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2019.04.14-17.21.04:301][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0016 seconds. Added 0 classes and 0 folders.
+[2019.04.14-17.21.04:301][  0]LogLoad: (Engine Initialization) Total time: 246.25 seconds
+[2019.04.14-17.21.04:301][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.14-17.21.04:353][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.14-17.21.04:357][  0]LogSlate: Took 0.000484 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.14-17.21.04:377][  0]LogSlate: Took 0.008098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.14-17.21.05:157][  0]LogRenderer: Reallocating scene render targets to support 864x392 Format 10 NumSamples 1 (Frame:1).
+[2019.04.14-17.21.06:124][  3]LogAssetRegistry: Asset discovery search completed in 236.3747 seconds
+[2019.04.14-17.21.06:128][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.04.14-17.21.06:128][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000144 seconds (updated 0 objects)
+[2019.04.14-17.21.12:548][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.14-17.42.16:903][124]LogHotReload: New module detected: UE4Editor-SlateUI-7073.dll
+[2019.04.14-17.42.19:756][133]LogHotReload: Starting Hot-Reload from IDE
+[2019.04.14-17.42.19:838][133]LogSlate: Took 0.017251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.14-17.42.20:290][133]LogContentBrowser: Native class hierarchy updated for 'SlateUI' in 0.0079 seconds. Added 4 classes and 2 folders.
+[2019.04.14-17.42.20:302][133]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.04.14-17.42.20:593][133]LogContentBrowser: Native class hierarchy populated in 0.0282 seconds. Added 2457 classes and 562 folders.
+[2019.04.14-17.42.20:623][133]Display: HotReload took  0.9s.
+[2019.04.14-17.42.28:031][207]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.14-17.42.28:115][207]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.14-17.42.28:129][207]PIE: New page: PIE session: Untitled_1 (Apr 14, 2019, 9:42:28 PM)
+[2019.04.14-17.42.28:130][207]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.04.14-17.42.28:152][207]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021414s)
+[2019.04.14-17.42.28:191][207]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.14-17.42.28:196][207]LogPlayLevel: PIE: World Init took: (0.043047s)
+[2019.04.14-17.42.28:196][207]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.065769s)
+[2019.04.14-17.42.28:266][207]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4208 (AB 123))' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.14-17.42.28:314][207]LogInit: FAudioDevice initialized.
+[2019.04.14-17.42.28:403][207]LogLoad: Game class is 'GameModeBase'
+[2019.04.14-17.42.28:426][207]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2019.04.14-19.42.28
+[2019.04.14-17.42.28:429][207]LogWorld: Bringing up level for play took: 0.012364
+[2019.04.14-17.42.29:196][207]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0019 seconds. Added 11 classes and 0 folders.
+[2019.04.14-17.42.29:210][207]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.688
+[2019.04.14-17.42.36:386][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.14-17.42.40:040][463]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.14-17.42.40:107][463]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.14-17.42.40:107][463]PIE: New page: PIE session: Untitled_1 (Apr 14, 2019, 9:42:40 PM)
+[2019.04.14-17.42.40:108][463]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.04.14-17.42.40:116][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008442s)
+[2019.04.14-17.42.40:121][463]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.14-17.42.40:122][463]LogPlayLevel: PIE: World Init took: (0.005762s)
+[2019.04.14-17.42.40:122][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.015105s)
+[2019.04.14-17.42.40:193][463]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4208 (AB 123))' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.14-17.42.40:258][463]LogInit: FAudioDevice initialized.
+[2019.04.14-17.42.40:311][463]LogLoad: Game class is 'SlateGameMode'
+[2019.04.14-17.42.40:312][463]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2019.04.14-19.42.40
+[2019.04.14-17.42.40:315][463]LogWorld: Bringing up level for play took: 0.003901
+[2019.04.14-17.42.40:322][463]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.14-17.42.40:323][463]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.14-17.42.40:323][463]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.04.14-17.42.40:326][463]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.04.14-17.42.40:326][463]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.195
+[2019.04.14-17.42.42:842][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.14-17.42.46:697][619]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.14-17.42.46:764][619]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.14-17.42.46:765][619]PIE: New page: PIE session: Untitled_1 (Apr 14, 2019, 9:42:46 PM)
+[2019.04.14-17.42.46:765][619]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.04.14-17.42.46:771][619]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005876s)
+[2019.04.14-17.42.46:776][619]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.14-17.42.46:778][619]LogPlayLevel: PIE: World Init took: (0.006637s)
+[2019.04.14-17.42.46:779][619]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.013634s)
+[2019.04.14-17.42.46:863][619]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4208 (AB 123))' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.14-17.42.46:920][619]LogInit: FAudioDevice initialized.
+[2019.04.14-17.42.46:986][619]LogLoad: Game class is 'SlateGameMode'
+[2019.04.14-17.42.46:994][619]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2019.04.14-19.42.46
+[2019.04.14-17.42.46:996][619]LogWorld: Bringing up level for play took: 0.007234
+[2019.04.14-17.42.46:998][619]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.14-17.42.46:998][619]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.14-17.42.46:998][619]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.04.14-17.42.47:001][619]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.04.14-17.42.47:001][619]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.479
+[2019.04.14-17.42.49:296][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.14-17.42.54:923][784]LogSlate: Window 'Save Content' being destroyed
+[2019.04.14-17.43.20:070][865]LogSavePackage: Save=70.75ms
+[2019.04.14-17.43.20:070][865]LogSavePackage: Moving '../../../../../../Users/Xiaojun/Documents/Unreal Projects/SlateUI/Saved/Untitled_1_Auto1737F9D59422211191C5F7E9D45549955.tmp' to '../../../../../../Users/Xiaojun/Documents/Unreal Projects/SlateUI/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2019.04.14-17.43.20:080][865]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Xiaojun/Documents/Unreal Projects/SlateUI/Saved/Autosaves/Temp/Untitled_1_Auto1.umap
+[2019.04.14-17.43.20:086][865]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.123
+[2019.04.14-17.43.20:087][865]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.123
+[2019.04.14-17.46.48:019][482]LogHotReload: New module detected: UE4Editor-SlateUI-6359.dll
+[2019.04.14-17.46.51:160][492]LogHotReload: Starting Hot-Reload from IDE
+[2019.04.14-17.46.51:259][492]LogContentBrowser: Native class hierarchy updated for 'SlateUI' in 0.0011 seconds. Added 4 classes and 2 folders.
+[2019.04.14-17.46.51:261][492]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.04.14-17.46.51:373][492]LogContentBrowser: Native class hierarchy populated in 0.0292 seconds. Added 2457 classes and 562 folders.
+[2019.04.14-17.46.51:388][492]Display: HotReload took  0.2s.
+[2019.04.14-17.46.55:228][527]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.14-17.46.55:273][527]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.14-17.46.55:274][527]PIE: New page: PIE session: Untitled_1 (Apr 14, 2019, 9:46:55 PM)
+[2019.04.14-17.46.55:274][527]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.04.14-17.46.55:278][527]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003403s)
+[2019.04.14-17.46.55:279][527]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.14-17.46.55:279][527]LogPlayLevel: PIE: World Init took: (0.001365s)
+[2019.04.14-17.46.55:279][527]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005162s)
+[2019.04.14-17.46.55:326][527]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4208 (AB 123))' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.14-17.46.55:363][527]LogInit: FAudioDevice initialized.
+[2019.04.14-17.46.55:413][527]LogLoad: Game class is 'SlateGameMode'
+[2019.04.14-17.46.55:416][527]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2019.04.14-19.46.55
+[2019.04.14-17.46.55:418][527]LogWorld: Bringing up level for play took: 0.003714
+[2019.04.14-17.46.55:425][527]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.14-17.46.55:425][527]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.14-17.46.55:425][527]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.04.14-17.46.55:427][527]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.04.14-17.46.55:427][527]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.906
+[2019.04.14-17.46.58:985][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.14-17.47.05:709][826]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.14-17.47.05:752][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.14-17.47.05:752][826]PIE: New page: PIE session: Untitled_1 (Apr 14, 2019, 9:47:05 PM)
+[2019.04.14-17.47.05:752][826]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.04.14-17.47.05:754][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002287s)
+[2019.04.14-17.47.05:755][826]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.14-17.47.05:756][826]LogPlayLevel: PIE: World Init took: (0.001205s)
+[2019.04.14-17.47.05:756][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003736s)
+[2019.04.14-17.47.05:801][826]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4208 (AB 123))' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.14-17.47.05:824][826]LogInit: FAudioDevice initialized.
+[2019.04.14-17.47.05:870][826]LogLoad: Game class is 'SlateGameMode'
+[2019.04.14-17.47.05:872][826]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2019.04.14-19.47.05
+[2019.04.14-17.47.05:872][826]LogWorld: Bringing up level for play took: 0.001100
+[2019.04.14-17.47.05:873][826]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.14-17.47.05:874][826]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.14-17.47.05:874][826]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.04.14-17.47.05:875][826]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.04.14-17.47.05:875][826]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.647
+[2019.04.14-17.47.08:988][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.14-17.48.33:785][470]LogHotReload: New module detected: UE4Editor-SlateUI-1623.dll
+[2019.04.14-17.48.36:518][479]LogHotReload: Starting Hot-Reload from IDE
+[2019.04.14-17.48.36:754][479]LogContentBrowser: Native class hierarchy updated for 'SlateUI' in 0.0012 seconds. Added 4 classes and 2 folders.
+[2019.04.14-17.48.36:769][479]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.04.14-17.48.36:951][479]LogContentBrowser: Native class hierarchy populated in 0.0300 seconds. Added 2457 classes and 562 folders.
+[2019.04.14-17.48.36:969][479]Display: HotReload took  0.5s.
+[2019.04.14-17.49.19:064][631]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.14-17.49.19:124][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.14-17.49.19:126][631]PIE: New page: PIE session: Untitled_1 (Apr 14, 2019, 9:49:19 PM)
+[2019.04.14-17.49.19:126][631]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.04.14-17.49.19:133][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006308s)
+[2019.04.14-17.49.19:140][631]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.14-17.49.19:142][631]LogPlayLevel: PIE: World Init took: (0.009406s)
+[2019.04.14-17.49.19:143][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.016920s)
+[2019.04.14-17.49.19:210][631]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4208 (AB 123))' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.14-17.49.19:253][631]LogInit: FAudioDevice initialized.
+[2019.04.14-17.49.19:316][631]LogLoad: Game class is 'SlateGameMode'
+[2019.04.14-17.49.19:321][631]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2019.04.14-19.49.19
+[2019.04.14-17.49.19:323][631]LogWorld: Bringing up level for play took: 0.006336
+[2019.04.14-17.49.19:326][631]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.14-17.49.19:326][631]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.14-17.49.19:326][631]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.04.14-17.49.19:330][631]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.04.14-17.49.19:330][631]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.809
+[2019.04.14-17.49.22:527][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.14-18.16.04:548][ 63]LogHttp: Warning: 0000014560ED7E80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.04.14-18.16.04:549][ 63]LogHttp: Warning: 0000014560ED7E80: libcurl info message cache 0 (Connection 23 seems to be dead!)
+[2019.04.14-18.16.04:549][ 63]LogHttp: Warning: 0000014560ED7E80: libcurl info message cache 1 (Closing connection 23)
+[2019.04.14-18.16.04:549][ 63]LogHttp: Warning: 0000014560ED7E80: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.04.14-18.16.04:549][ 63]LogHttp: Warning: 0000014560ED7E80: libcurl info message cache 3 (Closing connection 24)
+[2019.04.14-18.54.34:154][441]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.04.14-19.06.05:022][495]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.14-19.06.05:023][495]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.14-19.06.06:273][556]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.14-19.06.06:305][556]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.14-19.06.06:305][556]PIE: New page: PIE session: Untitled_1 (Apr 14, 2019, 11:06:06 PM)
+[2019.04.14-19.06.06:305][556]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.04.14-19.06.06:308][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002767s)
+[2019.04.14-19.06.06:309][556]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.14-19.06.06:309][556]LogPlayLevel: PIE: World Init took: (0.001057s)
+[2019.04.14-19.06.06:309][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004048s)
+[2019.04.14-19.06.06:333][556]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4208 (AB 123))' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.14-19.06.06:346][556]LogInit: FAudioDevice initialized.
+[2019.04.14-19.06.06:377][556]LogLoad: Game class is 'SlateGameMode'
+[2019.04.14-19.06.06:378][556]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2019.04.14-21.06.06
+[2019.04.14-19.06.06:379][556]LogWorld: Bringing up level for play took: 0.000810
+[2019.04.14-19.06.06:379][556]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.14-19.06.06:379][556]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.14-19.06.06:380][556]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.04.14-19.06.06:381][556]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.04.14-19.06.06:381][556]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.138
+[2019.04.14-19.06.10:199][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.14-19.14.30:165][323]LogHotReload: New module detected: UE4Editor-SlateUI-5175.dll
+[2019.04.14-19.14.31:515][328]LogHotReload: Starting Hot-Reload from IDE
+[2019.04.14-19.14.31:578][328]LogContentBrowser: Native class hierarchy updated for 'SlateUI' in 0.0027 seconds. Added 4 classes and 2 folders.
+[2019.04.14-19.14.31:580][328]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.04.14-19.14.31:689][328]LogContentBrowser: Native class hierarchy populated in 0.0135 seconds. Added 2457 classes and 562 folders.
+[2019.04.14-19.14.31:697][328]Display: HotReload took  0.2s.
+[2019.04.14-19.14.35:860][386]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.14-19.14.35:887][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.14-19.14.35:887][386]PIE: New page: PIE session: Untitled_1 (Apr 14, 2019, 11:14:35 PM)
+[2019.04.14-19.14.35:888][386]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.04.14-19.14.35:892][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004107s)
+[2019.04.14-19.14.35:896][386]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.14-19.14.35:896][386]LogPlayLevel: PIE: World Init took: (0.004359s)
+[2019.04.14-19.14.35:896][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.008678s)
+[2019.04.14-19.14.35:917][386]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4208 (AB 123))' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.14-19.14.35:930][386]LogInit: FAudioDevice initialized.
+[2019.04.14-19.14.35:961][386]LogLoad: Game class is 'SlateGameMode'
+[2019.04.14-19.14.35:962][386]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2019.04.14-21.14.35
+[2019.04.14-19.14.35:963][386]LogWorld: Bringing up level for play took: 0.000801
+[2019.04.14-19.14.35:964][386]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.14-19.14.35:964][386]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.14-19.14.35:964][386]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.04.14-19.14.35:965][386]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.04.14-19.14.35:966][386]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.553
+[2019.04.14-19.14.46:461][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.14-19.22.44:309][192]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.14-19.22.44:312][192]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft Pinyin).
+[2019.04.14-19.47.57:030][763]LogHotReload: New module detected: UE4Editor-SlateUI-3457.dll
+[2019.04.14-19.47.58:381][768]LogHotReload: Starting Hot-Reload from IDE
+[2019.04.14-19.47.58:452][768]LogContentBrowser: Native class hierarchy updated for 'SlateUI' in 0.0012 seconds. Added 4 classes and 2 folders.
+[2019.04.14-19.47.58:454][768]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.04.14-19.47.58:514][768]LogContentBrowser: Native class hierarchy populated in 0.0124 seconds. Added 2457 classes and 562 folders.
+[2019.04.14-19.47.58:525][768]Display: HotReload took  0.1s.
+[2019.04.14-19.48.40:686][935]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.14-19.48.40:715][935]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.14-19.48.40:715][935]PIE: New page: PIE session: Untitled_1 (Apr 14, 2019, 11:48:40 PM)
+[2019.04.14-19.48.40:715][935]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.04.14-19.48.40:722][935]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006322s)
+[2019.04.14-19.48.40:724][935]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.14-19.48.40:724][935]LogPlayLevel: PIE: World Init took: (0.002458s)
+[2019.04.14-19.48.40:724][935]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.009020s)
+[2019.04.14-19.48.40:746][935]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4208 (AB 123))' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.14-19.48.40:759][935]LogInit: FAudioDevice initialized.
+[2019.04.14-19.48.40:797][935]LogLoad: Game class is 'SlateGameMode'
+[2019.04.14-19.48.40:799][935]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2019.04.14-21.48.40
+[2019.04.14-19.48.40:799][935]LogWorld: Bringing up level for play took: 0.001775
+[2019.04.14-19.48.40:801][935]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.14-19.48.40:801][935]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.14-19.48.40:801][935]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.04.14-19.48.40:802][935]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.04.14-19.48.40:803][935]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.284
+[2019.04.14-19.49.23:636][271]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.14-19.49.23:661][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.14-19.49.23:662][271]PIE: New page: PIE session: Untitled_1 (Apr 14, 2019, 11:49:23 PM)
+[2019.04.14-19.49.23:662][271]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.04.14-19.49.23:664][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002622s)
+[2019.04.14-19.49.23:665][271]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.14-19.49.23:665][271]LogPlayLevel: PIE: World Init took: (0.001026s)
+[2019.04.14-19.49.23:666][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004077s)
+[2019.04.14-19.49.23:686][271]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4208 (AB 123))' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.14-19.49.23:698][271]LogInit: FAudioDevice initialized.
+[2019.04.14-19.49.23:729][271]LogLoad: Game class is 'SlateGameMode'
+[2019.04.14-19.49.23:731][271]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2019.04.14-21.49.23
+[2019.04.14-19.49.23:732][271]LogWorld: Bringing up level for play took: 0.001840
+[2019.04.14-19.49.23:732][271]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.14-19.49.23:732][271]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.14-19.49.23:732][271]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.04.14-19.49.23:733][271]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.04.14-19.49.23:734][271]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.785
+[2019.04.14-19.49.49:532][831]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.04.14-19.49.53:287][854]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.04.14-19.50.31:642][999]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.04.14-19.51.51:058][265]LogHotReload: New module detected: UE4Editor-SlateUI-231.dll
+[2019.04.14-19.51.52:424][270]LogHotReload: Starting Hot-Reload from IDE
+[2019.04.14-19.51.52:487][270]LogContentBrowser: Native class hierarchy updated for 'SlateUI' in 0.0012 seconds. Added 4 classes and 2 folders.
+[2019.04.14-19.51.52:489][270]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.04.14-19.51.52:550][270]LogContentBrowser: Native class hierarchy populated in 0.0131 seconds. Added 2457 classes and 562 folders.
+[2019.04.14-19.51.52:560][270]Display: HotReload took  0.1s.
+[2019.04.14-19.51.55:722][279]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.04.14-19.51.56:518][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.14-19.51.56:601][321]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.14-19.51.56:623][321]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.14-19.51.56:623][321]PIE: New page: PIE session: Untitled_1 (Apr 14, 2019, 11:51:56 PM)
+[2019.04.14-19.51.56:624][321]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.04.14-19.51.56:627][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002679s)
+[2019.04.14-19.51.56:629][321]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.14-19.51.56:629][321]LogPlayLevel: PIE: World Init took: (0.001736s)
+[2019.04.14-19.51.56:629][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005896s)
+[2019.04.14-19.51.56:651][321]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4208 (AB 123))' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.14-19.51.56:664][321]LogInit: FAudioDevice initialized.
+[2019.04.14-19.51.56:696][321]LogLoad: Game class is 'SlateGameMode'
+[2019.04.14-19.51.56:697][321]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2019.04.14-21.51.56
+[2019.04.14-19.51.56:698][321]LogWorld: Bringing up level for play took: 0.001132
+[2019.04.14-19.51.56:698][321]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.14-19.51.56:699][321]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.14-19.51.56:699][321]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.04.14-19.51.56:700][321]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.04.14-19.51.56:700][321]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.182
+[2019.04.14-19.52.00:826][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.14-19.52.01:783][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.14-19.52.22:897][144]LogSlate: Window 'Save Content' being destroyed
+[2019.04.14-19.55.02:928][645]LogHotReload: New module detected: UE4Editor-SlateUI-1410.dll
+[2019.04.14-19.56.35:767][958]LogHotReload: Starting Hot-Reload from IDE
+[2019.04.14-19.56.35:817][958]LogContentBrowser: Native class hierarchy updated for 'SlateUI' in 0.0011 seconds. Added 4 classes and 2 folders.
+[2019.04.14-19.56.35:819][958]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.04.14-19.56.35:882][958]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 2457 classes and 562 folders.
+[2019.04.14-19.56.35:892][958]Display: HotReload took  0.1s.
+[2019.04.14-19.56.36:302][975]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.14-19.56.36:331][975]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.14-19.56.36:332][975]PIE: New page: PIE session: Untitled_1 (Apr 14, 2019, 11:56:36 PM)
+[2019.04.14-19.56.36:332][975]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.04.14-19.56.36:335][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003104s)
+[2019.04.14-19.56.36:336][975]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.14-19.56.36:337][975]LogPlayLevel: PIE: World Init took: (0.001223s)
+[2019.04.14-19.56.36:337][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004942s)
+[2019.04.14-19.56.36:357][975]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4208 (AB 123))' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.14-19.56.36:370][975]LogInit: FAudioDevice initialized.
+[2019.04.14-19.56.36:408][975]LogLoad: Game class is 'SlateGameMode'
+[2019.04.14-19.56.36:409][975]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2019.04.14-21.56.36
+[2019.04.14-19.56.36:410][975]LogWorld: Bringing up level for play took: 0.000995
+[2019.04.14-19.56.36:411][975]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.14-19.56.36:411][975]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.14-19.56.36:411][975]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.04.14-19.56.36:413][975]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.04.14-19.56.36:413][975]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.105
+[2019.04.14-19.56.39:145][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.14-19.56.44:454][245]LogRenderer: Reallocating scene render targets to support 1312x624 Format 10 NumSamples 1 (Frame:268).
+[2019.04.14-19.56.56:792][461]LogSlate: Window 'Save Content' being destroyed
+[2019.04.14-20.03.26:075][753]LogHotReload: New module detected: UE4Editor-SlateUI-8054.dll
+[2019.04.14-20.03.27:423][758]LogHotReload: Starting Hot-Reload from IDE
+[2019.04.14-20.03.27:500][758]LogContentBrowser: Native class hierarchy updated for 'SlateUI' in 0.0011 seconds. Added 4 classes and 2 folders.
+[2019.04.14-20.03.27:502][758]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.04.14-20.03.27:558][758]LogContentBrowser: Native class hierarchy populated in 0.0115 seconds. Added 2457 classes and 562 folders.
+[2019.04.14-20.03.27:568][758]Display: HotReload took  0.1s.
+[2019.04.14-20.03.32:109][816]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.14-20.03.32:141][816]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.14-20.03.32:141][816]PIE: New page: PIE session: Untitled_1 (Apr 15, 2019, 12:03:32 AM)
+[2019.04.14-20.03.32:142][816]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.04.14-20.03.32:145][816]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003166s)
+[2019.04.14-20.03.32:146][816]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.14-20.03.32:146][816]LogPlayLevel: PIE: World Init took: (0.001145s)
+[2019.04.14-20.03.32:146][816]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004540s)
+[2019.04.14-20.03.32:168][816]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4208 (AB 123))' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.14-20.03.32:182][816]LogInit: FAudioDevice initialized.
+[2019.04.14-20.03.32:215][816]LogLoad: Game class is 'SlateGameMode'
+[2019.04.14-20.03.32:217][816]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2019.04.14-22.03.32
+[2019.04.14-20.03.32:217][816]LogWorld: Bringing up level for play took: 0.001066
+[2019.04.14-20.03.32:218][816]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.14-20.03.32:218][816]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.14-20.03.32:218][816]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.04.14-20.03.32:220][816]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.04.14-20.03.32:221][816]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.297
+[2019.04.14-20.03.35:763][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
